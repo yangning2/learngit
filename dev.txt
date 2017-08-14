@@ -1,5 +1,7 @@
 This file is created on dev branch.
-Change the file after added to stage, e,,,
+Change the file after added to stage.
+Add one new line.
+
 
 
 
